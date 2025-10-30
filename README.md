@@ -57,8 +57,5 @@ This serves the frontend at `http://localhost:8060/` and automatically opens you
 
 ## Resources
 - **Step‑by‑step video:** [YouTube walkthrough](https://www.youtube.com/watch?v=F4h-gQ1s4SY)
-- **Official docs:** [Azure OpenAI Realtime (Voice Live) over WebSocket](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/voice-live-quickstart?tabs=linux%2Ckeyless&pivots=programming-language-python)
+- **Official docs:** [Azure Voice Live Model Official Document](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/voice-live-quickstart?tabs=linux%2Ckeyless&pivots=programming-language-python)
 - **Azure Speech voice list:** [Supported languages and voices](https://learn.microsoft.com/en-us/azure/ai-services/speech-servicevoice-live-language-support?tabs=speechinput)
-
-## License
-This project is provided as a demo. Review your organization’s policies and Azure terms when using Azure OpenAI.
