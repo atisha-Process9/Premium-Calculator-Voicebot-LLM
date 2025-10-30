@@ -1,5 +1,5 @@
 # Voice-Live-Api
-Voice Live API Demo — a simple web frontend that lets you talk to Azure OpenAI Voice Live (Realtime) over WebSocket. It captures your microphone audio, streams it to Azure, and plays back the model's real‑time speech while also showing transcripts.
+Voice Live API  — a  web frontend that lets you talk to Azure OpenAI Voice Live (Realtime) over WebSocket. It captures your microphone audio, streams it to Azure, and plays back the model's real‑time speech while also showing transcripts.
 
 ## What this project does
 - **Real‑time voice chat:** Stream microphone audio to Azure OpenAI Voice Live and hear AI responses back with minimal latency.
